@@ -1,4 +1,4 @@
-# autochimp
+# Autochimp
 MailChimp API Automation for CASL Consent Legislation
 
 This Package contains two individual Functionalities.
