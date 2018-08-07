@@ -1,7 +1,9 @@
-# Autochimp by <a href="https://github.com/jack-hanlon">Jack Hanlon</a>
+# Autochimp 
 MailChimp API Automation for CASL Consent Legislation 
 
 This Package contains two individual Functionalities.
+
+Developed by <a href="https://github.com/jack-hanlon">Jack Hanlon</a>
 
 <h2>Automate</h2>
 Automate is an autochimp feature which scans through a MASTER list on Mailchimp and purges members whose CASL Consent has expired. It does this automatically via Cron Jobs.
