@@ -1,5 +1,5 @@
-# Autochimp
-MailChimp API Automation for CASL Consent Legislation by <a href="https://github.com/jack-hanlon">Jack Hanlon</a>
+# Autochimp by <a href="https://github.com/jack-hanlon">Jack L. Hanlon</a>
+MailChimp API Automation for CASL Consent Legislation 
 
 This Package contains two individual Functionalities.
 
