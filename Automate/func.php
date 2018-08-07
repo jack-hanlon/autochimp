@@ -4,7 +4,7 @@ filename: func.php
 version: v 1.0.0
 filetype: FUNCTIONS
 Author: Jack Hanlon
-Summary: Contains all G3 MailChimp fucntions
+Summary: Contains all MailChimp functions
 ***********************************************************************/
 
 //Get today's Date and Time
