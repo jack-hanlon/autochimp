@@ -1,0 +1,14 @@
+.image-cropper {
+    width: 400px;
+    height: 400px;
+    position: center;
+    overflow: hidden;
+    border-radius: 15%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
