@@ -33,5 +33,5 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
 The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, and you must add the </br>security key for the script to work.</pre>
 
 
-<h1>Drop AutoChimp a Star!</h1>
+<h1>Drop AutoChimp a Star! <span class="glyphicon glyphicon-star"></span></h1>
 <h2>And Get AutoChimping!!!</h2>
