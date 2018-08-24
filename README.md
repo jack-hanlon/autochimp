@@ -34,4 +34,4 @@ The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, a
 
 
 <h1>Drop AutoChimp a Star!</h1>
-<h2And Get AutoChimping!!!</h2>
+<h2>And Get AutoChimping!!!</h2>
