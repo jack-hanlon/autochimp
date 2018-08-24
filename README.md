@@ -14,17 +14,17 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
 
 <h2>Get Started</h2>
   
- Git clone the repo into autochimp folder
+* Git clone the repo into autochimp folder
  
-Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp. Fill out items such as your MC  List ID, API Key and Data Center.
+* Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp. Fill out items such as your MC  List ID, API Key and Data Center.
 
-Use http://www.miraclesalad.com/webtools/md5.php to generate a Security key to protect your script from being activated without your authorization. Insert this security key into the key field in your $settings[] array. 
+* Use http://www.miraclesalad.com/webtools/md5.php to generate a Security key to protect your script from being activated without your authorization. Insert this security key into the key field in your $settings[] array. 
 
-Once all of your settings are complete. Upload all of your files to your server of choice.
+* Once all of your settings are complete. Upload all of your files to your server of choice.
 
-Login to your Servers cpanel via http://yourwebsite.com:2082 with the same login & pwd as your FTP Client.
+* Login to your Servers cpanel via http://yourwebsite.com:2082 with the same login & pwd as your FTP Client.
 
-Go to Cron Jobs and follow the layout of the code to add a new cron job.
+* Go to Cron Jobs and follow the layout of the code to add a new cron job.
 
 Should look something like this : 
 
@@ -33,5 +33,5 @@ Should look something like this :
 The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, and you must add the security key for the script to work.
 
 
-<h1>Drop AutoChimp a Star!<h1>
+<h1>Drop AutoChimp a Star!</h1>
 <h2And Get AutoChimping!!!</h2>
