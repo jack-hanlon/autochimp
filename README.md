@@ -16,9 +16,9 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
   
 <pre> Git clone the repo into autochimp folder </pre>
  
-<pre>Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp.</br> Fill out items such as your MC  List ID, API Key and Data Center.</pre>
+<pre>Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp.</br>Fill out items such as your MC  List ID, API Key and Data Center.</pre>
 
-<pre>Use http://www.miraclesalad.com/webtools/md5.php to generate a Security key to protect your script from being activated without your authorization. Insert this security key into the key field in your $settings[] array. </pre>
+<pre>Use http://www.miraclesalad.com/webtools/md5.php to generate a Security key to protect your script from being</br>activated without your authorization. Insert this security key into the key field in your $settings[] array. </pre>
 
 <pre>Once all of your settings are complete. Upload all of your files to your server of choice.</pre>
 
@@ -30,7 +30,7 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
 
 /usr/local/bin/php /home/yourlogin/public_html/settings_template.php 1 your_security_key
 
-The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, and you must add the security key for the script to work.</pre>
+The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, and you must add the </br>security key for the script to work.</pre>
 
 
 <h1>Drop AutoChimp a Star!</h1>
