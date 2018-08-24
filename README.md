@@ -12,7 +12,7 @@ Automate is an autochimp feature which scans through a MASTER list on Mailchimp 
 <h2>Subscribe</h2>
 Subscribe is the second autochimp feature which gives you a link that you can put in your MC Campaign emails, to set the users consent to Express and protect them from the operations completed by Automate.
 
-<h2>Get Started<h2>
+<h2>Get Started</h2>
   
  Git clone the repo into autochimp folder
  
