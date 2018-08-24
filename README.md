@@ -16,7 +16,7 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
   
 <pre> Git clone the repo into autochimp folder </pre>
  
-<pre>Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp. Fill out items such as your MC  List ID, API Key and Data Center.</pre>
+<pre>Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp.</br> Fill out items such as your MC  List ID, API Key and Data Center.</pre>
 
 <pre>Use http://www.miraclesalad.com/webtools/md5.php to generate a Security key to protect your script from being activated without your authorization. Insert this security key into the key field in your $settings[] array. </pre>
 
