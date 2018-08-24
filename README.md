@@ -14,7 +14,7 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
 
 <h2>Get Started</h2>
   
-* Git clone the repo into autochimp folder
+<pre> Git clone the repo into autochimp folder </pre>
  
 * Modify settings_template.php for Automate & Subcribe Packages based on your information found in MailChimp. Fill out items such as your MC  List ID, API Key and Data Center.
 
