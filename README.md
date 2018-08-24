@@ -1,5 +1,3 @@
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 #Autochimp
 MailChimp API Automation for CASL Consent Legislation 
 
@@ -33,7 +31,8 @@ Subscribe is the second autochimp feature which gives you a link that you can pu
 /usr/local/bin/php /home/yourlogin/public_html/settings_template.php 1 your_security_key
 
 The 1 tells the AutoChimp Script that you're running the script via Cron Jobs, and you must add the </br>security key for the script to work.</pre>
-
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <h1>Drop AutoChimp a Star! <span class="glyphicon glyphicon-star"></span></h1>
 <h2>And Get AutoChimping!!!</h2>
