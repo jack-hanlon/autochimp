@@ -1,5 +1,5 @@
 # Autochimp
-MailChimp API Automation for CASL Consent Legislation 
+## MailChimp API Automation for CASL Consent Legislation 
 
 Canadian GDPR Equivalent
 
